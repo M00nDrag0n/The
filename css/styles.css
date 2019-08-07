@@ -1,0 +1,38 @@
+body {
+font-family: 'Spectral';
+font-size: 19px;
+}
+
+#the {
+
+  position: relative;
+  left: 200px;
+  font-size: 500px;
+  text-align: center;
+  text-shadow: 3px;
+  border-color: black;
+  border-style: double;
+  padding: 20px;
+  background: linear-gradient(to top right, black, lightblue, blue, lightblue, blue, darkblue, skyblue, blue, white, lightblue, blue, skyblue, white, blue, lightblue, black, white, blue, lightblue, lightblue, blue, white, black, lightblue, black, blue, white, lightblue, blue, white, skyblue, royalblue, black, white, blue, lightblue, white, blue, lightblue, black, lightblue, blue, black);
+  width: 900px;
+}
+
+.sidebar {
+  float: right;
+}
+
+.block {
+
+  position: absolute;
+  bottom: 100px;
+  word-wrap: break-word;
+  border-width: thick;
+  border-style: solid;
+  border-color: red;
+  border-length: 250px;
+  width: 1340px;
+}
+
+.float-test {
+  float: right;
+}
